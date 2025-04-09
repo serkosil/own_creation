@@ -1,0 +1,7 @@
+apscheduler>=3.10.0
+python-telegram-bot>=20.0.0
+requests>=2.31.0
+feedparser>=6.0.10
+pytz>=2023.3
+python-dotenv>=1.0.0
+logging>=0.5.1.2
